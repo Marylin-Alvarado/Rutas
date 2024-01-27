@@ -1,0 +1,1408 @@
+{
+    "places": [
+        {
+            "Falcutad": "Falcutad de la Educacion el Arte y la Comunicacion",
+            "name": "Redondel",
+            "geometry": [
+                -4.032785,
+                -79.202424
+            ]
+        },
+        {
+            "name": "Nodo1",
+            "geometry": [
+                -4.032968,
+                -79.202549
+            ]
+        },
+        {
+            "name": "Nodo2",
+            "geometry": [
+                -4.033454,
+                -79.202454
+            ]
+        },
+        {
+            "name": "Nodo3",
+            "geometry": [
+                -4.033854,
+                -79.203399
+            ]
+        },
+        {
+            "name": "Nodo4",
+            "geometry": [
+                -4.0331004,
+                -79.203477
+            ]
+        },
+        {
+            "name": "Nodo5",
+            "geometry": [
+                -4.03352,
+                -79.203455
+            ]
+        },
+        {
+            "name": "Nodo6",
+            "geometry": [
+                -4.033607,
+                -79.203571
+            ]
+        },
+        {
+            "name": "Nodo7",
+            "geometry": [
+                -4.034134,
+                -79.203399
+            ]
+        },
+        {
+            "name": "Nodo8",
+            "geometry": [
+                -4.034303,
+                -79.203402
+            ]
+        },
+        {
+            "name": "A47(Biblioteca)",
+            "geometry": [
+                -4.034279,
+                -79.203405
+            ]
+        },
+        {
+            "name": "Nodo9",
+            "geometry": [
+                -4.034309,
+                -79.203846
+            ]
+        },
+        {
+            "name": "A42/A45",
+            "geometry": [
+                -4.034333,
+                -79.204013
+            ]
+        },
+        {
+            "name": "A43",
+            "geometry": [
+                -4.034368,
+                -79.204187
+            ]
+        },
+        {
+            "name": "Nodo10",
+            "geometry": [
+                -4.034429,
+                -79.204189
+            ]
+        },
+        {
+            "name": "Nodo11",
+            "geometry": [
+                -4.034435,
+                -79.204183
+            ]
+        },
+        {
+            "name": "Nodo12",
+            "geometry": [
+                -4.034467,
+                -79.20417
+            ]
+        },
+        
+        {
+            "name": "Nodo14",
+            "geometry": [
+                -4.034208,
+                -79.203921
+            ]
+        },
+        {
+            "name": "Nodo15",
+            "geometry": [
+                -4.03456,
+                -79.203747
+            ]
+        },
+        {
+            "name": "Nodo16",
+            "geometry": [
+                -4.0347,
+                -79.203913
+            ]
+        },
+        {
+            "name": "Nodo17",
+            "geometry": [
+                -4.034671,
+                -79.203996
+            ]
+        },
+        {
+            "name": "Nodo18",
+            "geometry": [
+                -4.034798,
+                -79.204094
+            ]
+        },
+        {
+            "name": "Nodo19",
+            "geometry": [
+                -4.034886,
+                -79.204046
+            ]
+        },
+        {
+            "name": "Nodo20",
+            "geometry": [
+                -4.034628,
+                -79.204299
+            ]
+        },
+        {
+            "name": "A52",
+            "geometry": [
+                -4.034773,
+                -79.204374
+            ]
+        },
+        {
+            "name": "Nodo21",
+            "geometry": [
+                -4.034897,
+                -79.204194
+            ]
+        },
+        {
+            "name": "A53",
+            "geometry": [
+                -4.034886,
+                -79.204282
+            ]
+        },
+        {
+            "name": "Nodo22",
+            "geometry": [
+                -4.03497,
+                -79.204489
+            ]
+        },
+        {
+            "name": "A57",
+            "geometry": [
+                -4.03509,
+                -79.204645
+            ]
+        },
+        {
+            "name": "Nodo23",
+            "geometry": [
+                -4.03516,
+                -79.204393
+            ]
+        },
+        {
+            "name": "A54",
+            "geometry": [
+                -4.035106,
+                -79.204201
+            ]
+        },
+        {
+            "name": "Nodo24",
+            "geometry": [
+                -4.035027,
+                -79.204136
+            ]
+        },
+        {
+            "name": "Nodo25",
+            "geometry": [
+                -4.035241,
+                -79.204077
+            ]
+        },
+        {
+            "name": "A55",
+            "geometry": [
+                -4.035251,
+                -79.204131
+            ]
+        },
+        {
+            "name": "Nodo26",
+            "geometry": [
+                -4.035312,
+                -79.204372
+            ]
+        },
+        {
+            "name": "A58",
+            "geometry": [
+                -4.035382,
+                -79.204536
+            ]
+        },
+        {
+            "name": "Nodo27",
+            "geometry": [
+                -4.035458,
+                -79.204548
+            ]
+        },
+        {
+            "name": "Nodo28",
+            "geometry": [
+                -4.035541,
+                -79.204384
+            ]
+        },
+        {
+            "name": "Nodo29",
+            "geometry": [
+                -4.035799,
+                -79.20519
+            ]
+        },
+        {
+            "name": "Nodo30",
+            "geometry": [
+                -4.036034,
+                -79.205372
+            ]
+        },
+        {
+            "name": "Nodo31",
+            "geometry": [
+                -4.036505,
+                -79.205474
+            ]
+        },
+        {
+            "name": "Nodo32",
+            "geometry": [
+                -4.036421,
+                -79.205339
+            ]
+        },
+        {
+            "name": "A99",
+            "geometry": [
+                -4.036658,
+                -79.20512
+            ]
+        },
+        {
+            "name": "Nodo33",
+            "geometry": [
+                -4.035314,
+                -79.204954
+            ]
+        },
+        {
+            "name": "Nodo34",
+            "geometry": [
+                -4.034622,
+                -79.20344
+            ]
+        },
+        
+        {
+            "name": "Nodo35",
+            "geometry": [
+                -4.034268,
+                -79.2021
+            ]
+        },
+        {
+            "name": "A38",
+            "geometry": [
+                -4.034231,
+                -79.202039
+            ]
+        },
+        {
+            "name": "Nodo36",
+            "geometry": [
+                -4.033395,
+                -79.202032
+            ]
+        },
+        {
+            "name": "Nodo37",
+            "geometry": [
+                -4.033788,
+                -79.201561
+            ]
+        },
+        {
+            "name": "Nodo38",
+            "geometry": [
+                -4.034939,
+                -79.200621
+            ]
+        },
+        {
+            "name": "Nodo39",
+            "geometry": [
+                -4.033902,
+                -79.201004
+            ]
+        },
+        {
+            "name": "Nodo40",
+            "geometry": [
+                -4.032863,
+                -79.201505
+            ]
+        },
+        {
+            "name": "Nodo41",
+            "geometry": [
+                -4.034939,
+                -79.200621
+            ]
+        },
+        {
+            "name": "Nodo42",
+            "geometry": [
+                -4.032896,
+                -79.200023
+            ]
+        },
+        {
+            "name": "Nodo43",
+            "geometry": [
+                -4.033073,
+                -79.199981
+            ]
+        },
+        {
+            "name": "Nodo44",
+            "geometry": [
+                -4.033316,
+                -79.199922
+            ]
+        },
+        {
+            "name": "Nodo45",
+            "geometry": [
+                -4.033379,
+                -79.199574
+            ]
+        },
+        {
+            "Falcutad": "Administración Central, Bienestar Universitario",
+            "name": "Redondel",
+            "geometry": [
+                -4.03275,
+                -79.2024
+            ]
+        },
+        {
+            "name": "A17",
+            "geometry": [
+                -4.0325,
+                -79.20058
+            ]
+        },
+        {
+            "name": "N1",
+            "geometry": [
+                -4.0326,
+                -79.2007
+            ]
+        },
+        {
+            "name": "A41",
+            "geometry": [
+                -4.03356,
+                -79.2029
+            ]
+        },
+        {
+            "name": "N2",
+            "geometry": [
+                -4.0331,
+                -79.2022
+            ]
+        },
+        {
+            "name": "A40",
+            "geometry": [
+                -4.03366,
+                -79.2029
+            ]
+        },
+        {
+            "name": "A34",
+            "geometry": [
+                -4.03320,
+                -79.2022
+            ]
+        },
+        {
+            "name": "A35",
+            "geometry": [
+                -4.03349,
+                -79.2022
+            ]
+        },
+        
+        {
+            "name": "N3",
+            "geometry": [
+                -4.0369,
+                -79.2062
+            ]
+        },
+        {
+            "name": "N4",
+            "geometry": [
+                -4.0366,
+                -79.2066
+                
+                
+            ]
+        },
+        {
+            "name": "N5",
+            "geometry": [
+                -4.0332,
+                -79.2035
+            ]
+        },
+        {
+            "name": "N6",
+            "geometry": [
+                -4.0354,
+                -79.2053
+                
+                
+            ]
+        },
+        {
+            "name": "N7",
+            "geometry": [
+                -4.0339,
+                -79.2042
+                
+            ]
+        },
+        {
+            "name": "A109",
+            "geometry": [
+                -4.03678,
+                -79.2057                
+            ]  
+        },
+        {
+            "name": "A110",
+            "geometry": [
+                -4.03658,
+                -79.2056                
+            ]  
+        },
+        {
+            "name": "A111",
+            "geometry": [
+                -4.03720,
+                -79.2049                
+            ]  
+        },
+        {
+            "name": "N8",
+            "geometry": [
+                -4.0363,
+                -79.2056                
+            ]  
+        },
+        {
+            "name": "N9",
+            "geometry": [
+                -4.0368,
+                -79.2053
+                               
+            ]  
+        },
+        {
+            "name": "A114",
+            "geometry": [
+                -4.03744, 
+                -79.2049               
+            ]  
+        },
+        {
+            "name": "N10",
+            "geometry": [
+                -4.0372,
+                -79.2048
+                               
+            ]  
+        },
+        {
+            "name": "A115",
+            "geometry": [
+                -4.03768,
+                -79.2047
+                               
+            ]  
+        },
+        {
+            "name": "N11",
+            "geometry": [
+                -4.0374,
+                -79.2038                               
+            ]   
+        },
+        {
+            "name": "A118",
+            "geometry": [
+                -4.03768,
+                -79.2036                               
+            ] 
+        },
+        {
+            "name": "N12",
+            "geometry": [
+                -4.0371,
+                -79.2038                               
+            ]
+        },
+        {
+            "name": "N13",
+            "geometry": [
+                -4.0366,
+                -79.2030                               
+            ]
+        },
+        {
+            "name": "N14",
+            "geometry": [
+                -4.0365,
+                -79.2041                               
+            ]
+        },
+        {
+            "name": "N15",
+            "geometry": [
+                -4.0363,
+                -79.2025                               
+            ]
+        },
+        {
+            "name": "N16",
+            "geometry": [
+                -4.0368,
+                -79.2040                               
+            ]
+        },
+        {
+            "name": "N17",
+            "geometry": [
+                -4.0372,
+                -79.2045                               
+            ]
+
+        },
+        {
+            "Falcutad": "Agropecuaria y de Recursos Naturales Renovables; Jurídica Social y administrativa",
+            "name": "Laboratorio 15",
+            "geometry": [
+                -4.032255,
+                -79.200031
+            ]
+        },
+        {
+            "name": "S/N 21",
+            "geometry": [
+                -4.0337353,
+                -79.1997873
+            ]  
+        },
+        {
+            "name": "Administración quinta la Argelia 22",
+            "geometry": [
+                -4.0330433,
+                -79.1997240
+            ]  
+        },
+        {
+            "name": "Invernadero 23",
+            "geometry": [
+                -4.0330142,
+                -79.1997384
+            ]  
+        },
+        {
+            "name": "Bodega 27",
+            "geometry": [
+                -4.0335547,
+                -79.1997803
+            ]  
+        },
+        {
+            "name": "Bodega 28",
+            "geometry": [
+                -4.0334450,
+                -79.1995469
+            ]  
+        },
+        {
+            "name": "Banco de germoplastia 29",
+            "geometry": [
+                -4.0336440,
+                -79.1994115
+            ]  
+        },
+        {
+            "name": "Maquinaria agrícola y aserrío 30",
+            "geometry": [
+                -4.0343145,
+                -79.1996465
+            ]  
+        },
+        {
+            "name": "Laboratorio física-mecánica de madera 51",
+            "geometry": [
+                -4.03615,
+                -79.20360
+            ]  
+        },
+        {
+            "name": "Laboratorios de suelos 60",
+            "geometry": [
+                -4.03524,
+                -79.20314
+            ]  
+        },
+        {
+            "name": "Bloque de aulas 61",
+            "geometry": [
+                -4.0352239,
+                -79.203381
+            ]  
+        },
+        {
+            "name": "Invernadero 62",
+            "geometry": [
+                -4.03547,
+                -79.20358
+            ]  
+        },
+        {
+            "name": "Laboratorio de fisiología vegetal 63",
+            "geometry": [
+                -4.035557,
+                -79.20330
+            ]  
+        },
+        {
+            "name": "HERBARIO ''REINALDO ESPINOSA''w 64",
+            "geometry": [
+                -4.03563,
+                -79.20326
+            ]  
+        },
+        {
+            "name": "LABORATORIO DE BROMATOLOGÍA, QUÍMICA Y DASOMETRÍA 65",
+            "geometry": [
+                -4.03542,
+                -79.20325
+            ]  
+        },
+        {
+            "name": "CARRERA DE AGRONOMÍA. 66",
+            "geometry": [
+                -4.03538,
+                -79.20297
+            ]  
+        },
+        {
+            "name": "ÁREA ADMINISTRATIVA 67",
+            "geometry": [
+                -4.0351600,
+                -79.2028430
+            ]  
+        },
+        {
+            "name": "AULA MAGNA 68",
+            "geometry": [
+                -4.0351056,
+                -79.2029277 
+            ]  
+        },
+        {
+            "name": "SALA DE DOCENTES 69",
+            "geometry": [
+                -4.0353874,
+                -79.2027522
+            ]  
+        },
+        {
+            "name": "BIBLIOTECA 70",
+            "geometry": [
+                -4.0353755,
+                -79.2028167
+            ]  
+        },
+        {
+            "name": "EX CERACYT 71",
+            "geometry": [
+                -4.0354379,
+                -79.2027800
+            ]  
+        },
+        {
+            "name": "CAFETERÍA 72",
+            "geometry": [
+                -4.0354587,
+                -79.2028655
+            ]  
+        },
+        {
+            "name": "CARRERA DE VETERINARIA 73",
+            "geometry": [
+                -4.03584,   
+                -79.20335
+            ]  
+        },
+        {
+            "name": "LABORATORIO-DIAGNOSTICO VETERINARIO. 74",
+            "geometry": [
+                -4.03591,   
+                -79.20309
+            ]  
+        },
+        {
+            "name": "ANFITEATRO DE VETERINARIA 75",
+            "geometry": [
+                -4.03608,   
+                -79.20332
+            ]  
+        },
+        {
+            "name": "LABORATORIO DE APICULTURA 76",
+            "geometry": [
+                -4.03617,   
+                -79.20326
+            ]  
+        },
+        {
+            "name": "GUARDA ALMACEN 77",
+            "geometry": [
+                -4.03614,   
+                -79.20318
+            ]  
+        },
+        {
+            "name": "LABORATORIO AMBIENTAL 78",
+            "geometry": [
+                -4.03635,   
+                -79.20320
+            ]  
+        },
+        {
+            "name": "LABORATORIO DE PATOLOGÍA VETERINARIA 79",
+            "geometry": [
+                -4.03638,   
+                -79.20308
+            ]  
+        },
+        {
+            "name": "HOSPITAL VETERINARIO 80",
+            "geometry": [
+                -4.03588,   
+                -79.20298
+            ]  
+        },
+        {
+            "name": "AULAS DE VETERINARIA 81",
+            "geometry": [
+                -4.03633,   
+                -79.20292
+            ]  
+        },
+        {
+            "name": "CAFETERÍA 82",
+            "geometry": [
+                -4.03619,   
+                -79.20273
+            ]  
+        },
+        {
+            "name": "ADMINISTRACIÓN Y POST GRADO  83",
+            "geometry": [
+                -4.03599,   
+                -79.20274
+            ]  
+        },
+        {
+            "name": "CARRERA INGENIERÍA FORESTAL 84",
+            "geometry": [
+                -4.03577,   
+                -79.20395
+            ]  
+        },
+        {
+            "name": "CARRERA DE AGRICOLA. 85",
+            "geometry": [
+                -4.03593,   
+                -79.20382
+            ]  
+        },
+        {
+            "name": "CARRERA DE MEDIO AMBIENTE 86",
+            "geometry": [
+                -4.03615,   
+                -79.20360
+            ]  
+        },
+        {
+            "name": "ADMINISTRACIÓN F.J.S.A. 87",
+            "geometry": [
+                -4.03558,   
+                -79.20488
+            ]  
+        },
+        {
+            "name": "CARRERA DE TRABAJO SOCIAL 88",
+            "geometry": [
+                -4.03585,   
+                -79.20493
+            ]  
+        },
+        {
+            "name": "CARRERA DE DERECHO 89",
+            "geometry": [
+                -4.03571,   
+                -79.20458
+            ]  
+        },
+        {
+            "name": "INNOVATION COOWORKING 90",
+            "geometry": [
+                -4.03602,   
+                -79.20473
+            ]  
+        },
+        {
+            "name": "BLOQUE DE AULAS CARRERA DE DERECHO 91",
+            "geometry": [
+                -4.03606,   
+                -79.20430
+            ]  
+        },
+        {
+            "name": "AULA MAGNA Y CARRERA DE DERECHO 92",
+            "geometry": [
+                -4.03614,   
+                -79.20446
+            ]  
+        },
+        {
+            "name": "BATERIAS SANITARIAS F.J.S.A. 93",
+            "geometry": [
+                -4.03627,   
+                -79.20443
+            ]  
+        },
+        {
+            "name": "BIBLIOTECA F.J.S.A. 94",
+            "geometry": [
+                -4.03630,
+                -79.20423
+            ]  
+        },
+        {
+            "name": "CARRERA DE ADMINISTRACIÓN PÚBLICA 95",
+            "geometry": [
+                -4.03623,   
+                -79.20534
+            ]  
+        },
+        {
+            "name": "SECCIÓN ADMINISTRATIVA Y ACADÉMICA DE DERECHO. 96",
+            "geometry": [
+                -4.03615,   
+                -79.20511
+            ]  
+        },
+        {
+            "name": "BATERIAS SANITARIAS F.J.S.A. 97",
+            "geometry": [
+                -4.03639,   
+                -79.20522
+            ]  
+        },
+        {
+            "name": "CARRERA DE BANCA Y FINANZAS 98",
+            "geometry": [
+                -4.03641,   
+                -79.20514
+            ]  
+        },
+        {
+            "name": "CARRERA DE COMUNICACIÓN SOCIAL 99",
+            "geometry": [
+                -4.03664,   
+                -79.20521
+            ]  
+        },
+        {
+            "name": "CARRERA DE ECONOMÍA 100",
+            "geometry": [
+                -4.03658,   
+                -79.20492
+            ]  
+        },
+        {
+            "name": "CAFETERÍA F.J.S.A. 101",
+            "geometry": [
+                -4.03652,   
+                -79.20473
+            ]  
+        },
+        {
+            "name": "BATERIAS SANITARIAS F.J.S.A. 102",
+            "geometry": [
+                -4.0369995, 
+                -79.2049657
+            ]  
+        },
+        {
+            "name": "CARRERA DE ADMINISTRACIÓN DE EMPRESAS. 103",
+            "geometry": [
+                -4.036982,  
+                -79.204637
+            ]  
+        },
+        {
+            "name": "Obelisco UNL 104",
+            "geometry": [
+                -4.0370610, 
+                -79.2044567
+            ]  
+        },
+        {
+            "name": "CARRERA DE CONTABILIDAD Y AUDITORÍA. 105",
+            "geometry": [
+                -4.037131,  
+                -79.204293
+            ]  
+        },
+        {
+            "name": "CARRERA DE ADMINISTRACIÓN TURISTICA. 112",
+            "geometry": [
+                -4.0373771, 
+                -79.2047296
+            ]  
+        },
+        {
+            "name": "NIVEL DE POST GRADO F.J.S.A 113",
+            "geometry": [
+                -4.0374814, 
+                -79.2045137
+            ]  
+        },
+        {
+            "name": "RADIO UNIVERSITARIA YCUBÍCULOS DE DOCENTES AGRÍCOLA 116",
+            "geometry": [
+                -4.037697,  
+                -79.203768
+            ]  
+        },
+        {
+            "name": "AULAS CARRERA DE FORESTAL 117",
+            "geometry": [
+                -4.037554,  
+                -79.203665
+            ]  
+        },
+        {
+            "Falcutad": "Energía, Las Industrias y los Recursos Naturales No Renovables y Unidad Educación A Distancia",
+            "name": "A2 Laboratorios de F.E.R.N.N.R. ( Carrera Electromecática) ",
+            "geometry": [
+                -4.0312325, 
+                -79.2018342
+            ]
+        },
+        {
+            "name": "A3 Bloque De Aulas",
+            "geometry": [
+                -4.0300832, 
+                -79.1994403
+            ]  
+        },
+        {
+            "name": "A4 Bloque De Aulas (Carrera Computación)",
+            "geometry": [
+                -4.0304716, 
+                -79.1992723
+            ]  
+        },
+        {
+            "name": "A7 Bloque De Aulas",
+            "geometry": [
+                -4.030716,  
+                -79.1994819
+            ]  
+        },
+        {
+            "name": "A8 Bloque De Aulas (Carrera Telecomunicaciones)",
+            "geometry": [
+                -4.031044,
+                -79.1995234
+            ]  
+        },
+        {
+            "name": "A10 Carrera de Geología , Electrónica",
+            "geometry": [
+                -4.0314313, 
+                -79.1997609 
+            ]  
+        },
+        {
+            "name": "A13 Administración F.E.R.N.N.R.",
+            "geometry": [
+                -4.0300327, 
+                -79.1995401
+            ]  
+        },
+        {
+            "name": "A15 Laboratorios de Microprogramación Vegetal F.A.R.N.R. ",
+            "geometry": [
+                -4.0323378, 
+                -79.2001129
+            ]  
+        },
+        {
+            "name": "A16 Modalidad de Estudios a Distancia ",
+            "geometry": [
+                -4.0274076, 
+                -79.2005717
+            ]  
+        },
+        {
+            "name": "A25 Taller de Mecánica Automotriz ",
+            "geometry": [
+                -4.0335185, 
+                -79.1994172 
+            ]  
+        },
+        {
+            "name": "P1 Punto de Encuentro (Área de Energía)",
+            "geometry": [
+                -4.0302473, 
+                -79.1997149
+            ]  
+        },
+        {
+            "name": "N1 Nodo Auxiliar (bloque 13)",
+            "geometry": [
+                -4.0319550, 
+                -79.2000626
+            ]  
+        },
+        {
+            "name": "N2 Nodo auxiliar (MED)",
+            "geometry": [
+                -4.0324691, 
+                -79.2001558 
+            ]  
+        },
+        
+        {
+            "name": "N4 Nodo auxiliar (bloque 20)",
+            "geometry": [
+                -4.033210,
+                -79.199884
+            ]  
+        },
+        {
+            "name": "P2 Punto de encuentro (Carrera de artes musicales)",
+            "geometry": [
+                -4.033135,  
+                -79.200135
+            ]  
+        },
+        {
+            "name": "N5 Nodo auxiliar (bloque 28 y 29)",
+            "geometry": [
+                -4.033687,  
+                -79.199737
+            ]  
+        },
+        {
+            "name": "N6 Nodo auxiliar (bloque 30)",
+            "geometry": [
+                -4.033792,  
+                -79.199711
+            ]  
+        },
+        {
+            "name": "N7 Nodo auxiliar (frente a bienestar universitario (calle))",
+            "geometry": [
+                -4.0326958, 
+                -79.2005568
+            ]  
+        },
+        {
+            "Falcutad": "Medicina",
+            "name": "Bloque 10 Entrada de la Facultad",
+            "geometry": [
+                -3.992927,  
+                -79.20810
+            ]
+        },
+        {
+            "name": "Bloque 4 Bar",
+            "geometry": [
+                -3.992806,  
+                -79.20729
+            ]  
+        },
+        {
+            "name": "Bloque 8 Modulares",
+            "geometry": [
+                -3.992682,  
+                -79.20798
+            ] 
+        },
+        {
+            "name":  "Bloque 11 Laboratorio clinico",
+            "geometry": [
+                -3.992940,  
+                -79.207470
+            ] 
+        },
+        {
+            "name": "Auxiliar Bar a bloque 9",
+            "geometry": [
+                -3.9929,    
+                -79.207420
+            ] 
+        },
+        {
+            "name": "AuxiliarMedicina Humana 11",
+            "geometry": [
+                -3.993250,  
+                -79.207560
+            ] 
+        },
+        {
+            "name": "Auxiliar Vía clínica odontólogo",
+            "geometry": [
+                -3.993260,  
+                -79.207550
+            ] 
+        },
+        {
+            "name": "Auxiliar Vía clínica odontologica a bloque 2",
+            "geometry": [
+                -3.993360,  
+                -79.207450
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Edificio aulas medicina",
+            "geometry": [
+                -3.993520,  
+                -79.207290
+            ] 
+
+        },
+        {
+            "name": "Bloque 2 Clínica odontológica",
+            "geometry": [
+                -3.99345,   
+                -79.207200
+            ] 
+
+        },
+        {
+            "name": "Bloque 11 Entrada",
+            "geometry": [
+                -3.992940,  
+                -79.207470
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Laboratorio enfermería",
+            "geometry": [
+                -3.992600,  
+                -79.207780
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Bloque 8",
+            "geometry": [
+                -3.992690,  
+                -79.207930
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Cerca del area verde",
+            "geometry": [
+                -3.992550,  
+                -79.207810
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Camino a centro",
+            "geometry": [
+                -3.992640,  
+                -79.207700
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Camino Laboratorio",
+            "geometry": [
+                -3.992470,  
+                -79.207710
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Salida Auditorio",
+            "geometry": [
+                -3.992460,  
+                -79.207730
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Escultura Matilde Hidalgo",
+            "geometry": [
+                -3.992342,  
+                -79.207443
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Escalera a bar",
+            "geometry": [
+                -3.992750,  
+                -79.207410
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Bar",
+            "geometry": [
+                -3.992750,  
+                -79.207410
+            ] 
+
+        },
+        {
+            "name": "Bloque 12 Postgrados",
+            "geometry": [
+                -3.992255,  
+                -79.207312
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Calle Manuel Monteros",
+            "geometry": [
+                -3.992408,  
+                -79.207174
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Calle Manuel Monteros",
+            "geometry": [
+                -3.992391,  
+                -79.207240
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Calle Manuel Monteros",
+            "geometry": [
+                -3.992363,  
+                -79.207350
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Calle Manuel Monteros",
+            "geometry": [
+                -3.992315,  
+                -79.207552
+            ] 
+
+        },
+        {
+            "name": "Auxiliar Calle Manuel Monteros",
+            "geometry": [
+                -3.992287,  
+                -79.207678 
+            ] 
+        },
+        {
+            "name": "Auxiliar Calle Manuel Monteros",
+            "geometry": [
+                -3.992277,  
+                -79.207769
+            ] 
+        },
+        {
+            "name": "Auxiliar Calle Manuel Monteros",
+            "geometry": [
+                -3.992313,  
+                -79.207928
+            ] 
+        },
+        {
+            "name": "Auxiliar Calle Manuel Monteros",
+            "geometry": [
+                -3.992373,  
+                -79.208034
+            ] 
+        },
+        {
+            "name": "Auxiliar Calle Manuel Monteros",
+            "geometry": [
+                -3.992463,  
+                -79.208114
+            ] 
+        },
+        {
+            "name": "Auxiliar Calle Manuel Monteros",
+            "geometry": [
+                -3.992571,  
+                -79.208161
+            ] 
+        }
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+    ]    
+}
